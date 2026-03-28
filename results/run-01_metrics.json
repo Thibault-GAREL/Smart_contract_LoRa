@@ -1,0 +1,9 @@
+{
+  "mode": "FINE-TUNED LoRA",
+  "total_samples": 4068,
+  "valid_predictions": 4036,
+  "invalid_predictions": 32,
+  "accuracy": 0.22224975222993062,
+  "f1_macro": 0.10755311500491888,
+  "f1_weighted": 0.13296198135570428
+}
