@@ -2,5 +2,4 @@ models/
 venv/
 __pycache__/
 *.log
-dataset/
 baseline_test/
