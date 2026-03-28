@@ -1,0 +1,4069 @@
+true_label,true_name,predicted_label,predicted_name,raw_output,correct
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,0,Block number dependency,0,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,7,Unchecked external call,7,False
+8,Safe,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,1,Dangerous delegatecall,1,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,-1,invalid,A (single digit):,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,1,Dangerous delegatecall,1,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+1,Dangerous delegatecall,7,Unchecked external call,7,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+1,Dangerous delegatecall,1,Dangerous delegatecall,1,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,1,Dangerous delegatecall,1,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,1,Dangerous delegatecall,1,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,7,Unchecked external call,7,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,-1,invalid,Classification: vulnerability,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+2,Ether frozen,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,0,Block number dependency,0,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,1,Dangerous delegatecall,1,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,2,Ether frozen,2,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,2,Ether frozen,2,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,7,Unchecked external call,7,True
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,-1,invalid,Classification type: Sa,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,-1,invalid,A,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,0,Block number dependency,0,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+2,Ether frozen,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,0,Block number dependency,0,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,0,Block number dependency,0,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,-1,invalid,Classification type: Sa,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,1,Dangerous delegatecall,1,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,7,Unchecked external call,7,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+2,Ether frozen,4,Integer overflow,4,False
+3,Ether strict equality,0,Block number dependency,0,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+2,Ether frozen,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,7,Unchecked external call,7,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,7,Unchecked external call,7,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+1,Dangerous delegatecall,1,Dangerous delegatecall,1,True
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,2,Ether frozen,2,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,2,Ether frozen,2,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,1,Dangerous delegatecall,1,True
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+3,Ether strict equality,-1,invalid,A,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,1,Dangerous delegatecall,1,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,0,Block number dependency,0,False
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,0,Block number dependency,0,False
+4,Integer overflow,4,Integer overflow,4,True
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,-1,invalid,S,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,2,Ether frozen,2,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,2,Ether frozen,2,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,2,Ether frozen,2,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+1,Dangerous delegatecall,2,Ether frozen,2,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,-1,invalid,A (single digit):,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,0,Block number dependency,0,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,0,Block number dependency,0,False
+6,Timestamp dependency,7,Unchecked external call,7,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,2,Ether frozen,2,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,-1,invalid,A (single digit):,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,0,Block number dependency,0,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,7,Unchecked external call,7,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,0,Block number dependency,0,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,0,Block number dependency,0,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,-1,invalid,A vulnerability type,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,1,Dangerous delegatecall,1,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,-1,invalid,):,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,1,Dangerous delegatecall,1,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,0,Block number dependency,0,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,1,Dangerous delegatecall,1,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+1,Dangerous delegatecall,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+3,Ether strict equality,-1,invalid,Classification type: Sa,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,0,Block number dependency,0,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+2,Ether frozen,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,0,Block number dependency,0,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,7,Unchecked external call,7,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,-1,invalid,A (single digit):,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,0,Block number dependency,0,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,1,Dangerous delegatecall,1,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,-1,invalid,S,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,-1,invalid,S,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+2,Ether frozen,7,Unchecked external call,7,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,-1,invalid,A (single digit):,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,-1,invalid,A,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+2,Ether frozen,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,0,Block number dependency,0,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,-1,invalid,A (single digit):,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,0,Block number dependency,0,False
+4,Integer overflow,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,-1,invalid,A vulnerability type,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+1,Dangerous delegatecall,2,Ether frozen,2,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,1,Dangerous delegatecall,1,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,-1,invalid,S,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,0,Block number dependency,0,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,-1,invalid,A (single digit):,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+2,Ether frozen,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,1,Dangerous delegatecall,1,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,1,Dangerous delegatecall,1,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,0,Block number dependency,0,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,-1,invalid,S,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,2,Ether frozen,21,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,0,Block number dependency,0,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,-1,invalid,S,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+2,Ether frozen,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,1,Dangerous delegatecall,1,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,1,Dangerous delegatecall,1,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,0,Block number dependency,0,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,-1,invalid,A (single digit):,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,-1,invalid,S,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,-1,invalid,S,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,2,Ether frozen,2,True
+1,Dangerous delegatecall,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,2,Ether frozen,21,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,-1,invalid,Classification: vulnerability,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,1,Dangerous delegatecall,1,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,-1,invalid,Classification: vulnerability,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,4,Integer overflow,4,False
+2,Ether frozen,1,Dangerous delegatecall,1,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,0,Block number dependency,0,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,0,Block number dependency,0,False
+1,Dangerous delegatecall,7,Unchecked external call,7,False
+6,Timestamp dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,-1,invalid,A,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,7,Unchecked external call,7,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+2,Ether frozen,7,Unchecked external call,7,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+2,Ether frozen,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,0,Block number dependency,0,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,1,Dangerous delegatecall,1,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,7,Unchecked external call,7,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+2,Ether frozen,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,0,Block number dependency,0,False
+2,Ether frozen,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,-1,invalid,A,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,2,Ether frozen,2,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,6,Timestamp dependency,6,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,1,Dangerous delegatecall,1,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,7,Unchecked external call,7,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,0,Block number dependency,0,False
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,0,Block number dependency,0,False
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,2,Ether frozen,2,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+1,Dangerous delegatecall,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,2,Ether frozen,2,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,2,Ether frozen,2,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,7,Unchecked external call,7,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,0,Block number dependency,0,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+2,Ether frozen,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,1,Dangerous delegatecall,1,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+2,Ether frozen,1,Dangerous delegatecall,1,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,-1,invalid,S,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,2,Ether frozen,2,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,-1,invalid,A,False
+1,Dangerous delegatecall,7,Unchecked external call,7,False
+3,Ether strict equality,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+1,Dangerous delegatecall,1,Dangerous delegatecall,1,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,1,Dangerous delegatecall,1,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,2,Ether frozen,2,False
+0,Block number dependency,4,Integer overflow,4,False
+1,Dangerous delegatecall,2,Ether frozen,2,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,4,Integer overflow,4,False
+1,Dangerous delegatecall,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,1,Dangerous delegatecall,1,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+2,Ether frozen,2,Ether frozen,2,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+0,Block number dependency,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+6,Timestamp dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+0,Block number dependency,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+3,Ether strict equality,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+2,Ether frozen,2,Ether frozen,2,True
+5,Reentrancy,8,Safe,8,False
+2,Ether frozen,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+1,Dangerous delegatecall,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+2,Ether frozen,2,Ether frozen,2,True
+1,Dangerous delegatecall,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+8,Safe,4,Integer overflow,4,False
+8,Safe,1,Dangerous delegatecall,11,False
+6,Timestamp dependency,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+0,Block number dependency,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+7,Unchecked external call,8,Safe,8,False
+8,Safe,8,Safe,8,True
+2,Ether frozen,2,Ether frozen,2,True
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+5,Reentrancy,4,Integer overflow,4,False
+8,Safe,8,Safe,8,True
+7,Unchecked external call,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+3,Ether strict equality,4,Integer overflow,4,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,8,Safe,8,True
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+3,Ether strict equality,8,Safe,8,False
+7,Unchecked external call,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+6,Timestamp dependency,8,Safe,8,False
+3,Ether strict equality,1,Dangerous delegatecall,1,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+0,Block number dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+7,Unchecked external call,8,Safe,8,False
+8,Safe,4,Integer overflow,4,False
+8,Safe,4,Integer overflow,4,False
+3,Ether strict equality,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+5,Reentrancy,8,Safe,8,False
+4,Integer overflow,4,Integer overflow,4,True
+5,Reentrancy,8,Safe,8,False
+3,Ether strict equality,8,Safe,8,False
+0,Block number dependency,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
+4,Integer overflow,4,Integer overflow,4,True
+4,Integer overflow,8,Safe,8,False
+6,Timestamp dependency,8,Safe,8,False
+4,Integer overflow,8,Safe,8,False
+8,Safe,8,Safe,8,True
+8,Safe,8,Safe,8,True
