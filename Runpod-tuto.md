@@ -100,12 +100,12 @@ python evaluate.py --model_dir models/tinyllama-lora_run-01_date-YYYY-MM-DD --da
 python -c "
 from huggingface_hub import HfApi
 api = HfApi()
-api.create_repo(repo_id='Thibault-GAREL/smart-contract-lora', repo_type='model', exist_ok=True)
+api.create_repo(repo_id='Thibault-GAREL/smart-contract-lora-v2', repo_type='model', exist_ok=True)
 api.upload_folder(
-    folder_path='./models/tinyllama-lora_run-01_date-YYYY-MM-DD',
-    repo_id='Thibault-GAREL/smart-contract-lora',
+    folder_path='./models/tinyllama-lora_run-02_date-2026-03-29',
+    repo_id='Thibault-GAREL/smart-contract-lora-v2',
     repo_type='model',
-    commit_message='LoRA v1 - 3 epochs full training'
+    commit_message='LoRA v2 - 5 epochs full training'
 )
 "
 ```
